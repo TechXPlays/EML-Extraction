@@ -56,11 +56,11 @@ eml-extractor --source <path>
 ```
 $ eml-extractor --source /path/to/eml/files/ --recursive
 ```
-# 4. Define manually from which files the attachments will be extracted:
+** 4. Define manually from which files the attachments will be extracted:**
 ```
 $ eml-extractor --files /path/to/file1.eml /path/to/file2.eml
 ```
-# 5. Change the path where to save the extracted attachments:
+**5. Change the path where to save the extracted attachments:**
 ```
 $ eml-extractor --destination /path/to/extracted/attachments/
 ```
