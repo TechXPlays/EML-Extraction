@@ -1,3 +1,17 @@
+# Delete Sized Files
+A simple script to allow you to scan a directory, and sub directories, for specific sized files and delete them. Good for Junk Searching after data recoveries are complete.
+
+<b>Credits</b>
+Myself
+
+# Features
+- Find a specified sized file and dete it in root and sub directories.
+
+# Usage
+```
+usage: deletesizedfiles --size <in-bytes>
+```
+
 # EML-Extraction
 A simple python script to extract email attachments from a large quantity of EML files
 
